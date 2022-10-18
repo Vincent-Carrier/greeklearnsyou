@@ -6,8 +6,8 @@
 </script>
 
 <body class="bg-sky-900 heropattern-endlessclouds-sky-700 h-screen">
-	<main class="container mx-auto flex flex-col items-center justify-center h-full px-20 py-20">
-		<div class="w-96">
+	<main class="container mx-auto flex flex-col items-center justify-center h-full px-8 py-8">
+		<div class="max-w-lg w-full">
 			<slot />
 		</div>
 	</main>

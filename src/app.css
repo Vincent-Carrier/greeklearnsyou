@@ -6,3 +6,9 @@
 :root {
 	font-synthesis: none;
 }
+
+@media screen(md) {
+	html {
+		font-size: 1.5rem
+	}
+}
