@@ -5,7 +5,7 @@
 	import '../app.css';
 </script>
 
-<body class="bg-sky-900 heropattern-endlessclouds-sky-700 h-screen">
+<body class="bg-stone-50 heropattern-endlessclouds-blue-100 h-screen">
 	<main class="container mx-auto flex flex-col items-center justify-center h-full px-8 py-8">
 		<div class="max-w-lg w-full">
 			<slot />
